@@ -36,4 +36,6 @@ Both of the Lasso and Ridge Regression models held a similiar accuracy rate of p
 
 They had an average error rate of 4.12 and 4.11.
 
+![](accuracy.png)
+
 Thus (Standard Bodyfat Estimate) - (Model Predicted Error) = (The more accurate Bodyfat Estimate)
